@@ -1,1 +1,6 @@
 C:\Users\Equipo-5\AppData\Local\Temporary Projects\Tp-leguizamon\bin\Debug\Tp-leguizamon.exe.config
+C:\Users\Equipo-5\AppData\Local\Temporary Projects\Tp-leguizamon\obj\Debug\Tp-leguizamon.csprojResolveAssemblyReference.cache
+C:\Users\Equipo-5\AppData\Local\Temporary Projects\Tp-leguizamon\bin\Debug\Tp-leguizamon.exe
+C:\Users\Equipo-5\AppData\Local\Temporary Projects\Tp-leguizamon\bin\Debug\Tp-leguizamon.pdb
+C:\Users\Equipo-5\AppData\Local\Temporary Projects\Tp-leguizamon\obj\Debug\Tp-leguizamon.exe
+C:\Users\Equipo-5\AppData\Local\Temporary Projects\Tp-leguizamon\obj\Debug\Tp-leguizamon.pdb
